@@ -1,0 +1,231 @@
+{
+    "id": "5E-plus-plus",
+    "title": "5E++",
+    "authors": [
+        {
+            "name": "KibblesTasty",
+            "url": "https://kthomebrew.com"
+        },
+        {
+            "name": "StarnDM"
+        }
+    ],
+    "manifest": "https://github.com/SittingHill/5E-Plus-Plus/releases/latest/download/module.json",
+    "download": "https://github.com/SittingHill/5E-Plus-Plus/releases/download/0.5.3/module.zip",
+    "description": "<p>Configuring 5e++ contents</p>",
+    "esmodules": [
+        "setup.js",
+        "feature-replacements.js",
+        "subclass-replacements.js",
+        "exhaustionUpdate.js"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "packs": [
+        {
+            "name": "backgrounds",
+            "label": "Backgrounds",
+            "path": "packs/backgrounds",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "background-features",
+            "label": "Background Features",
+            "path": "packs/background-features",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "classes",
+            "label": "Classes",
+            "path": "packs/classes",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "subclasses",
+            "label": "Subclasses",
+            "path": "packs/subclasses",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "class-features",
+            "label": "Class Features",
+            "path": "packs/class-features",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "ancestries",
+            "label": "Ancestries",
+            "path": "packs/ancestries",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "ancestry-features",
+            "label": "Ancestry Features",
+            "path": "packs/ancestry-features",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "feats",
+            "label": "Feats",
+            "path": "packs/feats",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "monsters",
+            "label": "Monsters",
+            "path": "packs/monsters",
+            "type": "Actor",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "path": "packs/spells",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "path": "packs/items",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "NONE",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "5E-plus-plus-roll-tables",
+            "label": "5E++ Roll Tables",
+            "path": "packs/5E-plus-plus-roll-tables",
+            "type": "RollTable",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "Rules",
+            "label": "5E++ Rules",
+            "path": "packs/rules",
+            "type": "JournalEntry",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "5E++",
+            "sorting": "a",
+            "packs": [
+                "ancestries",
+                "backgrounds",
+                "classes",
+                "subclasses",
+                "feats",
+                "spells",
+                "items",
+                "5E-plus-plus-roll-tables",
+                "Rules",
+                "monsters"
+            ],
+            "folders": [
+                {
+                    "name": "features",
+                    "sorting": "a",
+                    "packs": [
+                        "ancestry-features",
+                        "class-features",
+                        "background-features"
+                    ],
+                    "color": null,
+                    "folders": []
+                }
+            ],
+            "color": null
+        }
+    ],
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "version": "0.5.3",
+    "flags": {
+        "dnd5e": {
+            "sourceBooks": {
+                "5E++": "5E++"
+            },
+            "spellLists": [
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.k7Rs5EyXeA0SFTXD",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.mx4TsSbBIAaAkhQ7",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.PVgly1xB2S2I8GLQ",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.sANq9JMycfSq3A5d",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.FhucONA0yRZQjMmb",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.MWiN7ILEO0Vd3zAZ",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.cuG9d7J9fQH9InYT",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.DM4ETqDESWOk3d6E",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.gqUeORI4ykF6LXxJ",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.g0n5itzZ0U3VOpLl",
+                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.TSCQ8pBJxVartIs1"
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+"TYPES.Item.raceLegacy": "Ancestry",
+"TYPES.Item.raceLegacyPl": "Ancestries",
+"DND5E.Feature": {
+  "Background": "Background Feature",
+  "SpeciesLegacy": "Ancestry Feature"
+},
+"DND5E.ItemSpeciesDetailsLegacy": "Ancestry Details",
+"DND5E.RacialTraitsLegacy": "Ancestral Traits",
+"DND5E.Species": {
+  "AddLegacy": "Add Ancestry",
+  "FeaturesLegacy": "Ancestry Features",
+  "Name": "Species Name"
+}
+}
