@@ -23,6 +23,8 @@ Hooks.once('init', () => {
 	//Cleric features
 	//Channel Divinity
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.YpiLQEKGalROn7iJ"] = "Compendium.5E-plus-plus.class-features.Item.8WE7wAsIxck33OSW"; 	
+	//Channel Divinity: Turn Undead
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia"] = "Compendium.5E-plus-plus.class-features.Item.RDvV4YzYQnB6v2UO"; 	
 	
 	//Druid Features
 	//Wild Shape
