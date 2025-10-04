@@ -25,6 +25,10 @@ Hooks.once('init', () => {
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.YpiLQEKGalROn7iJ"] = "Compendium.5E-plus-plus.class-features.Item.8WE7wAsIxck33OSW"; 	
 	//Channel Divinity: Turn Undead
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia"] = "Compendium.5E-plus-plus.class-features.Item.RDvV4YzYQnB6v2UO"; 	
+	//Plague Domain Divine Empowerment
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.Ifwad1KCjJ4E0rjE"] = "Compendium.5E-plus-plus.class-features.Item.QZb3tSQ4kjhSdQBK";
+	//Wanderlust Domain Divine Empowerment
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia"] = "Compendium.5E-plus-plus.class-features.Item.RDvV4YzYQnB6v2UO"; 	
 	
 	//Druid Features
 	//Wild Shape
@@ -39,6 +43,12 @@ Hooks.once('init', () => {
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.LBKChJY5n02Afhnq"] = "Compendium.5E-plus-plus.class-features.Item.fVVvaDPiYYtL0aPk"; 
 	//Careful Spell
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.zElYrOcCFFMhB6Xl"] = "Compendium.5E-plus-plus.class-features.Item.jG4ljpOeXxqK9580"; 
+	
+	//Warlock features
+	//Beastlord Spells
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.sXnbqcpliGPaKGL5"] = "Compendium.5E-plus-plus.class-features.Item.OCgobaBIIszK7FXj";
+	//Infernal Engine Spells
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.v4Xgn27hYorBt1R7"] = "Compendium.5E-plus-plus.class-features.Item.q4NZEk9piWFciTKc";
 	
 	//spells
 	//acid splash
