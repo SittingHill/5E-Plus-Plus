@@ -1,7 +1,7 @@
 {
     "id": "5E-plus-plus",
-    "title": "5E++",
-	"version": "0.5.8",
+    "title": "5E++,
+	"version": "0.6.0",
     "authors": [
         {
             "name": "KibblesTasty",
@@ -214,17 +214,24 @@
                 "5E++": "5E++"
             },
             "spellLists": [
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.k7Rs5EyXeA0SFTXD",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.mx4TsSbBIAaAkhQ7",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.PVgly1xB2S2I8GLQ",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.sANq9JMycfSq3A5d",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.FhucONA0yRZQjMmb",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.MWiN7ILEO0Vd3zAZ",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.cuG9d7J9fQH9InYT",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.DM4ETqDESWOk3d6E",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.gqUeORI4ykF6LXxJ",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.g0n5itzZ0U3VOpLl",
-                "Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.TSCQ8pBJxVartIs1"
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.TSCQ8pBJxVartIs1",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.g0n5itzZ0U3VOpLl",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.FHY8kbIDAmYCWOP1",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.ONtMiA6VMMqu4SEn",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.gqUeORI4ykF6LXxJ",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.DM4ETqDESWOk3d6E",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.cuG9d7J9fQH9InYT",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.MWiN7ILEO0Vd3zAZ",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.FhucONA0yRZQjMmb",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.sANq9JMycfSq3A5d",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.PVgly1xB2S2I8GLQ",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.mx4TsSbBIAaAkhQ7",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.k7Rs5EyXeA0SFTXD",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.T9nrEfFNSOCMT4rB",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.xQpJZqWavAV5bm4p",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.PLw39L9uyguZwtOF",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.EBTj7NIvt7KdME46",
+				"Compendium.5E-plus-plus.Rules.JournalEntry.uOsKINxbXbCh4loE.JournalEntryPage.9rDLGf35hCX4y7R6"
             ]
         }
     },

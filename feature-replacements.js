@@ -33,6 +33,13 @@ Hooks.once('init', () => {
 	//Druid Features
 	//Wild Shape
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS"] = "Compendium.5E-plus-plus.class-features.Item.XsQprndaZvEOvOfQ";
+	//Circle of Consumption
+	//Swarm Shape
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.YbUx2g5Ywuxrps78"] = "Compendium.5E-plus-plus.class-features.Item.3cTugobx1E6x9cNM";
+	//Decay and Rebirth
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.Zgoh75kXYcoKmECn"] = "Compendium.5E-plus-plus.class-features.Item.lEPQkSM7xDMJFl4K";
+	//Hunger of the Swarm
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.VIm1M1to7UgyP9MG"] = "Compendium.5E-plus-plus.class-features.Item.KPO2wP1uTiTxU630";
 	
 	//Monk Features
 	//Ki
@@ -43,12 +50,53 @@ Hooks.once('init', () => {
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.LBKChJY5n02Afhnq"] = "Compendium.5E-plus-plus.class-features.Item.fVVvaDPiYYtL0aPk"; 
 	//Careful Spell
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.zElYrOcCFFMhB6Xl"] = "Compendium.5E-plus-plus.class-features.Item.jG4ljpOeXxqK9580"; 
+	//Twinned spell
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.Qb391hakCfmH4w8p"] = "Compendium.5E-plus-plus.class-features.Item.Jp1OUq1LheRYjjt1"; 
 	
 	//Warlock features
 	//Beastlord Spells
 	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.sXnbqcpliGPaKGL5"] = "Compendium.5E-plus-plus.class-features.Item.OCgobaBIIszK7FXj";
 	//Infernal Engine Spells
 	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.v4Xgn27hYorBt1R7"] = "Compendium.5E-plus-plus.class-features.Item.q4NZEk9piWFciTKc";
+	//Midnight Coven Spells
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.727mam5BVtKG5A1Y"] = "Compendium.5E-plus-plus.class-features.Item.q4NZEk9piWFciTKc";
+	//Unyielding Sun Spells
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.yuLaPNjR6xrgJihP"] = "Compendium.5E-plus-plus.class-features.Item.vvbz3pHzGLpvrB3j";
+	
+	//Eldritch Invocation
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.2fyuw7MiCnocDeAU"] = "Compendium.5E-plus-plus.class-features.Item.J20m8lyeS3vM6JEF";//Agonizing Blast
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.alUqO6c6OEKFQJdb"] = "Compendium.5E-plus-plus.class-features.Item.zeLYtCTtk7gDzrup";//Armor of Shadows
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.QEuH5TeBN4PPYT2g"] = "Compendium.5E-plus-plus.class-features.Item.lI1Zk1bpLRHITp4I";//Ascendant Step
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.61kXR1sniXHjvN17"] = "Compendium.5E-plus-plus.class-features.Item.dLhbCljSMZj6NYpl";//Beast Speech
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.eNvpIaSnJUdF8fHl"] = "Compendium.5E-plus-plus.class-features.Item.0j1BYY8aq2X1jrDX";//Beguiling Influence
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.KygHql3cTj4IRrvZ"] = "Compendium.5E-plus-plus.class-features.Item.hdvsPODwo9kRRJZA";//Bewitching Whispers
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.CFIYXDmbmSP8BXjN"] = "Compendium.5E-plus-plus.class-features.Item.x3tURZ9ednoNVfBS";//Book of Ancient Secrets
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.Phy02H5x0TKHd7T3"] = "Compendium.5E-plus-plus.class-features.Item.v5RsXH9jZbSgM5JZ";//Chains of Carceri
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.3sN91lT1R3oxcDKd"] = "Compendium.5E-plus-plus.class-features.Item.SjnDD8pz7sVQn213";//Devil's Sight
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.QBk1RsuTIEF4GEBC"] = "Compendium.5E-plus-plus.class-features.Item.n2hqGFCYIzYlG68M";//Dreadful word
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.bbUEsCPTLzbbwK6o"] = "Compendium.5E-plus-plus.class-features.Item.wHUwSKUXjifXsT6a";//Eldritch Sight
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.r01WtcxTg4yTHm9m"] = "Compendium.5E-plus-plus.class-features.Item.J58urwjWklv5hspu";//Eldritch Spear
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.lEZKbWaVrSljRa9n"] = "Compendium.5E-plus-plus.class-features.Item.VPleZBTj7vUIJsXB";//Eyes of the Rune Keeper
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.id0gmGvzNZBEdzbx"] = "Compendium.5E-plus-plus.class-features.Item.UzmI0zuf8subyxF7";//Fiendish vigor
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.65ReXU4ZWqcSs3Cm"] = "Compendium.5E-plus-plus.class-features.Item.bvTPLaEsJS6EwUXB";//Gaze of Two Minds
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.zUIAzBnyt0NDvVXb"] = "Compendium.5E-plus-plus.class-features.Item.xfT2Eok2BeUXWIm7";//Lifedrinker
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.MhJfdBl1B7PdU4oZ"] = "Compendium.5E-plus-plus.class-features.Item.06ZkziND6iTSojdP";//Mask of Many Faces
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.lxfdjLer3uKjyZqU"] = "Compendium.5E-plus-plus.class-features.Item.2e9vaHBAqg5nlm98";//Master of Myriad forms
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.QnRKYXb2bXpnNd2k"] = "Compendium.5E-plus-plus.class-features.Item.I2AL1KlxfYeLr6XB";//Minions of Chaos
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.DjXi0IkCTbJx1gsp"] = "Compendium.5E-plus-plus.class-features.Item.ZpatKmE4KNgiPOHz";//Mire the Minds
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.k5DU0mMuYVHejiqz"] = "Compendium.5E-plus-plus.class-features.Item.pZR4yONaXaaxJI0w";//Misty Visions
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.KfnUyjUWAk0bAAus"] = "Compendium.5E-plus-plus.class-features.Item.H5lQ3cuzwKLCVF02";//One with Shadows
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.8zciiglzEOZo7DDN"] = "Compendium.5E-plus-plus.class-features.Item.Uficq8g1CrWJdCAu";//Otherworldly Leap
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.rdBPd6CwqXT64iJM"] = "Compendium.5E-plus-plus.class-features.Item.clTLW2zfPjDP3OcQ";//Repelling Blast
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.Xa2MLUJGCReJ28B7"] = "Compendium.5E-plus-plus.class-features.Item.ut6iAqDsof4KJbyY";//Sculptor of Flesh
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.dTSV0xZMpY5CxkRk"] = "Compendium.5E-plus-plus.class-features.Item.v5RsXH9jZbSgM5JZ";//Sign of Ill Omen
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.rhbwDZ9XNTmdkX2u"] = "Compendium.5E-plus-plus.class-features.Item.LMU7dUT7iolonFq7";//Thief of Five Fates
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.pJADgAxxefgcATWr"] = "Compendium.5E-plus-plus.class-features.Item.8QbtTSS4K0iPWEiY";//Thirsting Blade
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.zYIdNAjqRyhS6qWs"] = "Compendium.5E-plus-plus.class-features.Item.y88dqfrqRL189MBk";//Visions of Distant Realms
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.k5M8gsl7MMcdjOjs"] = "Compendium.5E-plus-plus.class-features.Item.fdkIs4q2qPycpULI";//Voice of the Chain Master
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.gFjxo01hAN4c9hDG"] = "Compendium.5E-plus-plus.class-features.Item.PbuR3a38xkIfjL69";//Whispers of the Grave
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.snsjxGfmzWfZR5Nh"] = "Compendium.5E-plus-plus.class-features.Item.2s5Rl0twaXgr9iKs";//Witch Sight
+	
 	
 	//spells
 	//acid splash

@@ -8,6 +8,8 @@ CONFIG.DND5E.featureTypes.class.subtypes.spiritAscension = "Spirit Ascension";
 CONFIG.DND5E.featureTypes.class.subtypes.spiritBlessing = "Spirit's Blessing";
 CONFIG.DND5E.featureTypes.class.subtypes.improvedFightingStyle = "Improved Fighting Style";
 CONFIG.DND5E.featureTypes.class.subtypes.dragonAncestor = "Dragon Ancestor";
+CONFIG.DND5E.featureTypes.class.subtypes.elementalTechnique = "Elemental Technique";
+CONFIG.DND5E.featureTypes.class.subtypes.beastCompanionTrait = "Beast Companion Trait";
 
 setup5EPlusPlusConditionReferences();
 newConditions();
