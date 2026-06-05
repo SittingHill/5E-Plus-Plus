@@ -20,6 +20,10 @@ Hooks.once('init', () => {
 	//Protection
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O"] = "Compendium.5E-plus-plus.class-features.Item.JE2Wsyz7HPVP66Eo"; 
 	
+	//bard features
+	//Song of Rest
+	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk"] = "Compendium.5E-plus-plus.class-features.Item.eQ7e3MMmKpdC9uYd"; 	
+	
 	//Cleric features
 	//Channel Divinity
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.YpiLQEKGalROn7iJ"] = "Compendium.5E-plus-plus.class-features.Item.8WE7wAsIxck33OSW"; 	

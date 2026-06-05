@@ -10,6 +10,7 @@ CONFIG.DND5E.featureTypes.class.subtypes.improvedFightingStyle = "Improved Fight
 CONFIG.DND5E.featureTypes.class.subtypes.dragonAncestor = "Dragon Ancestor";
 CONFIG.DND5E.featureTypes.class.subtypes.elementalTechnique = "Elemental Technique";
 CONFIG.DND5E.featureTypes.class.subtypes.beastCompanionTrait = "Beast Companion Trait";
+CONFIG.DND5E.featureTypes.class.subtypes.rogue5thLevelFeature = "Rogue 5th Level Archetype Feature";
 
 setup5EPlusPlusConditionReferences();
 newConditions();
