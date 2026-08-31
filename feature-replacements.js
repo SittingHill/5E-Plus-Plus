@@ -60,12 +60,17 @@ Hooks.once('init', () => {
 	//Warlock features
 	//Beastlord Spells
 	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.sXnbqcpliGPaKGL5"] = "Compendium.5E-plus-plus.class-features.Item.OCgobaBIIszK7FXj";
+	//Chained spells
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.fcpEtmva2FIHIP5l"] = "Compendium.5E-plus-plus.class-features.Item.d4LDbxPNGPYYSc31";
 	//Infernal Engine Spells
 	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.v4Xgn27hYorBt1R7"] = "Compendium.5E-plus-plus.class-features.Item.q4NZEk9piWFciTKc";
 	//Midnight Coven Spells
 	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.727mam5BVtKG5A1Y"] = "Compendium.5E-plus-plus.class-features.Item.q4NZEk9piWFciTKc";
+	//Ratmind spells
+	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.tTJg5mUhJFTpw8Vu"] = "Compendium.5E-plus-plus.class-features.Item.N7VpmO9Wupny59YD";
 	//Unyielding Sun Spells
 	CONFIG.compendium.uuidRedirects["Compendium.so-many-subclasses.subclass-features.Item.yuLaPNjR6xrgJihP"] = "Compendium.5E-plus-plus.class-features.Item.vvbz3pHzGLpvrB3j";
+	
 	
 	//Eldritch Invocation
 	CONFIG.compendium.uuidRedirects["Compendium.dnd5e.classfeatures.Item.2fyuw7MiCnocDeAU"] = "Compendium.5E-plus-plus.class-features.Item.J20m8lyeS3vM6JEF";//Agonizing Blast

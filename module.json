@@ -1,7 +1,7 @@
 {
     "id": "5E-plus-plus",
     "title": "5E++",
-	"version": "0.6.2",
+	"version": "0.6.3",
     "authors": [
         {
             "name": "KibblesTasty",
@@ -12,7 +12,7 @@
         }
     ],
     "manifest": "https://github.com/SittingHill/5E-Plus-Plus/releases/latest/download/module.json",
-    "download": "https://github.com/SittingHill/5E-Plus-Plus/releases/download/0.6.2/module.zip",
+    "download": "https://github.com/SittingHill/5E-Plus-Plus/releases/download/0.6.3/module.zip",
     "description": "A rules overhaul of 5E 2014 that is completely compatible with all 5e 2014 content.",
     "esmodules": [
         "setup.js",
