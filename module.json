@@ -1,7 +1,7 @@
 {
     "id": "5E-plus-plus",
     "title": "5E++",
-	"version": "0.6.3",
+	"version": "0.6.4",
     "authors": [
         {
             "name": "KibblesTasty",
@@ -12,7 +12,7 @@
         }
     ],
     "manifest": "https://github.com/SittingHill/5E-Plus-Plus/releases/latest/download/module.json",
-    "download": "https://github.com/SittingHill/5E-Plus-Plus/releases/download/0.6.3/module.zip",
+    "download": "https://github.com/SittingHill/5E-Plus-Plus/releases/download/0.6.4/module.zip",
     "description": "A rules overhaul of 5E 2014 that is completely compatible with all 5e 2014 content.",
     "esmodules": [
         "setup.js",
@@ -170,6 +170,17 @@
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
             }
+        },
+        {
+            "name": "effects",
+            "label": "5E++ Effects",
+            "path": "packs/effects",
+            "type": "ActiveEffect",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         }
     ],
     "packFolders": [
@@ -186,7 +197,8 @@
                 "items",
                 "5E-plus-plus-roll-tables",
                 "Rules",
-                "monsters"
+                "monsters",
+				"effects"
             ],
             "folders": [
                 {
@@ -205,8 +217,8 @@
         }
     ],
     "compatibility": {
-        "minimum": "13",
-        "verified": "14.363"
+        "minimum": "14",
+        "verified": "14.367"
     },
     "flags": {
         "dnd5e": {
@@ -239,9 +251,9 @@
 			"id": "dnd5e",
 			"type": "system",
 			"compatibility": {
-			  "minimum": "5.2",
-			  "verified": "5.3.3",
-			  "maximum": "5.9.99"
+			  "minimum": "6.0",
+			  "verified": "6.0.1",
+			  "maximum": "6.9.99"
 			}
 		  }
 		]
